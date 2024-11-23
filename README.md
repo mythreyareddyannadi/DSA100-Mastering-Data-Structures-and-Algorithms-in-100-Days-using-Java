@@ -18,7 +18,7 @@ Each folder corresponds to a day's challenge:
 ## Progress Tracker
 | Day  | Problem                              | Status     |
 |------|--------------------------------------|------------|
-| Day 1| Reverse an array                     |  Completed |
+| Day 1| Reverse an array                     |  pending   |
 | Day 2| ....                                 |   pending  |
 
 ---
