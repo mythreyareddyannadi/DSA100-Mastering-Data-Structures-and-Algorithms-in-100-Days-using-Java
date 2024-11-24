@@ -1,0 +1,1 @@
+Yes, DAY01 is done. i think finding minimum and maximum of an array is quiet easy but we will increase difficulty day by day for sure.
